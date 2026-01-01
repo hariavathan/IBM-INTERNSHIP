@@ -1,0 +1,16 @@
+{
+  "guests": [
+    {
+      "id": 1,
+      "name": "keerthana",
+      "event_name": "Conference",
+      "hall_no": "01"
+    },
+    {
+      "id": 2,
+      "name": "akhil",
+      "event_name": "birthday party",
+      "hall_no": "02"
+    }
+  ]
+}
